@@ -1,4 +1,4 @@
-# Merger_Sorter
+# Merger_Sorter (April 2015 - May 2015)
 
 <b>Project Objective:</b>
 This project sorts a set of array data A and sorts a set of array data B and Merges two sorted array. The resulted array would be merged sorted array.
